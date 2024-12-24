@@ -30,10 +30,10 @@
 # print(lst) 
 
 
-import re  
-s = 'Hello my name is Taivanbat and my phone number is 99378809 and 123456789  АБ12345678'
-lst = re.findall(r'\b[А-ЯӨҮ]{2}\d{8}\b', s)     
-print(lst) 
+# import re  
+# s = 'Hello my name is Taivanbat and my phone number is 99378809 and 123456789  АБ12345678'
+# lst = re.findall(r'\b[А-ЯӨҮ]{2}\d{8}\b', s)     
+# print(lst) 
 
 
 
