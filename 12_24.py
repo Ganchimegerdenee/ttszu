@@ -36,4 +36,17 @@
 # print(lst) 
 
 
+## dictionary тодорхойлох ##
+
+mydictionary = {
+    "owog" : "Baldan",
+    "ner" : "Saraa",
+    "nas" : 25
+}
+print(mydictionary)
+
+n = mydictionary.['ner']
+print(n)
+m = mydictionary.get("ner")
+print(m)
 
